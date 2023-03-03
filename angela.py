@@ -75,3 +75,4 @@ else:
    
 
 print('git çok zor')
+print('git çok zor2222')
